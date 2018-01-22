@@ -1,6 +1,6 @@
 # project_demos
 Demos for learning
-#"GhostButton"
+# "GhostButton"
 
 一个自己制作的小Demo，使用了Jquery和CSS3的transform动画，实现了国外比较火热的“幽灵按钮”样式。
 Demo实现的效果比较简单，以后会慢慢学习添加一些更复杂的功能。
